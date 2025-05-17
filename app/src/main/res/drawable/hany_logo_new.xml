@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="100dp"
+    android:viewportWidth="200"
+    android:viewportHeight="100">
+
+    <!-- Yellow background -->
+    <path
+        android:fillColor="@color/hany_yellow"
+        android:pathData="M0,0h200v100h-200z" />
+
+    <!-- "hany" text in white -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,30 C30,40 30,50 30,60 C30,65 35,70 40,70 C45,70 50,65 50,60 L50,30 L60,30 L60,60 C60,70 50,80 40,80 C30,80 20,70 20,60 L20,30 L30,30 Z" />
+    
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M70,30 L80,30 L80,50 L100,30 L115,30 L90,55 L115,80 L100,80 L80,60 L80,80 L70,80 L70,30 Z" />
+    
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M120,30 L130,30 L130,50 L150,30 L165,30 L140,55 L165,80 L150,80 L130,60 L130,80 L120,80 L120,30 Z" />
+    
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M170,30 L180,30 L180,60 C180,70 170,80 160,80 L160,70 C165,70 170,65 170,60 L170,30 Z" />
+</vector>

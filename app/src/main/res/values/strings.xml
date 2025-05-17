@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Hany Apiterapia</string>
+    <string name="action_settings">Configuración</string>
+
+    <!-- Strings para los fragmentos originales (necesarios para la compilación) -->
+    <string name="first_fragment_label">Apiterapia para Mascotas</string>
+    <string name="second_fragment_label">Beneficios y Tratamientos</string>
+    <string name="next">Más Información</string>
+    <string name="previous">Volver</string>
+    <string name="welcome_message">Bienvenido a Hany Apiterapia</string>
+    <string name="welcome_subtitle">SIEMPRE A TU LADO</string>
+    <string name="apitherapy_intro">La apiterapia es un tratamiento natural que utiliza productos derivados de las abejas para mejorar la salud de tus mascotas.</string>
+    <string name="dogs_title">Apiterapia para Perros</string>
+    <string name="dogs_content">Los productos de las abejas como la miel, el propóleo y la jalea real pueden ayudar a tratar problemas de piel, mejorar el sistema inmunológico y aliviar dolores articulares en perros.</string>
+    <string name="cats_title">Apiterapia para Gatos</string>
+    <string name="cats_content">En gatos, la apiterapia puede ser beneficiosa para problemas respiratorios, alergias y para fortalecer su sistema inmune de forma natural y segura.</string>
+    <string name="benefits_title">Beneficios de la Apiterapia</string>
+    <string name="benefits_content">• Propiedades antiinflamatorias\n• Acción antibacteriana\n• Fortalece el sistema inmune\n• Mejora problemas digestivos\n• Ayuda en la cicatrización\n• Reduce el estrés y la ansiedad</string>
+    <string name="treatments_title">Nuestros Tratamientos</string>
+    <string name="treatments_content">Ofrecemos tratamientos personalizados con productos apícolas de la más alta calidad, adaptados a las necesidades específicas de tu mascota. Consulta con nuestros especialistas para encontrar la mejor opción para tu perro o gato.</string>
+
+    <!-- Títulos de navegación -->
+    <string name="nosotros_title">Nosotros</string>
+    <string name="testimonios_title">Testimonios</string>
+    <string name="productos_title">Productos</string>
+
+    <!-- Sección Nosotros -->
+    <string name="nosotros_subtitle">SIEMPRE A TU LADO</string>
+    <string name="nosotros_description">Somos Hany, una empresa dedicada a la apiterapia para mascotas. Utilizamos productos naturales derivados de las abejas para mejorar la salud de perros y gatos.</string>
+    <string name="nosotros_mission">Nuestra misión es proporcionar tratamientos naturales y efectivos que mejoren la calidad de vida de las mascotas, utilizando los beneficios que nos ofrecen las abejas.</string>
+    <string name="nosotros_vision">Buscamos ser líderes en tratamientos naturales para mascotas, promoviendo el bienestar animal a través de la apiterapia.</string>
+
+    <!-- Sección Testimonios -->
+    <string name="testimonio_1_nombre">Carlos Rodríguez</string>
+    <string name="testimonio_1_mascota">Dueño de Max, Labrador de 5 años</string>
+    <string name="testimonio_1_contenido">\"Los tratamientos de apiterapia han ayudado enormemente a mi perro con sus problemas de piel. Después de probar muchos productos, finalmente encontramos algo que realmente funciona.\"</string>
+
+    <string name="testimonio_2_nombre">Laura Martínez</string>
+    <string name="testimonio_2_mascota">Dueña de Luna, gata Siamés de 3 años</string>
+    <string name="testimonio_2_contenido">\"Mi gata sufría de alergias constantes. Desde que comenzamos con los productos de Hany, ha mejorado notablemente y está mucho más activa y feliz.\"</string>
+
+    <string name="testimonio_3_nombre">Miguel Sánchez</string>
+    <string name="testimonio_3_mascota">Dueño de Rocky, Pastor Alemán de 7 años</string>
+    <string name="testimonio_3_contenido">\"Rocky tenía problemas articulares debido a su edad. Los tratamientos con propóleo y jalea real han reducido su dolor y ahora puede jugar como cuando era cachorro.\"</string>
+
+    <!-- Sección Productos -->
+    <string name="producto_1_nombre">Miel Terapéutica</string>
+    <string name="producto_1_descripcion">Miel 100% natural con propiedades antibacterianas y cicatrizantes. Ideal para problemas de piel y heridas superficiales.</string>
+
+    <string name="producto_2_nombre">Propóleo en Gotas</string>
+    <string name="producto_2_descripcion">Extracto de propóleo que fortalece el sistema inmunológico y ayuda a combatir infecciones en mascotas.</string>
+
+    <string name="producto_3_nombre">Jalea Real</string>
+    <string name="producto_3_descripcion">Suplemento energético natural que mejora la vitalidad y el bienestar general de perros y gatos.</string>
+
+    <!-- Otros textos -->
+    <string name="contact_info">Contáctanos para más información</string>
+    <string name="ver_mas">Ver más</string>
+</resources>
