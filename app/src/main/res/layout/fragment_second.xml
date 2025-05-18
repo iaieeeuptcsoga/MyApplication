@@ -53,7 +53,7 @@
             android:layout_height="80dp"
             android:layout_marginTop="24dp"
             android:contentDescription="Hany Logo"
-            android:src="@drawable/hany_logo_new"
+            android:src="@drawable/hany_logo_simple"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@id/benefits_card"

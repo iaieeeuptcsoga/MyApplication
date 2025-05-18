@@ -14,16 +14,23 @@
     <path
         android:fillColor="#FFFFFF"
         android:pathData="M40,30 L50,30 L50,50 L70,50 L70,30 L80,30 L80,80 L70,80 L70,60 L50,60 L50,80 L40,80 L40,30 Z" />
-
+    
     <path
         android:fillColor="#FFFFFF"
         android:pathData="M90,30 L130,30 L130,40 L110,40 L110,50 L125,50 L125,60 L110,60 L110,70 L130,70 L130,80 L90,80 L90,30 Z" />
-
+    
     <path
         android:fillColor="#FFFFFF"
         android:pathData="M140,30 L150,30 L150,70 L170,70 L170,80 L140,80 L140,30 Z" />
-
+    
     <path
         android:fillColor="#FFFFFF"
         android:pathData="M180,30 L190,30 L170,55 L190,80 L180,80 L160,55 L180,30 Z" />
+
+    <!-- "SIEMPRE A TU LADO" text in white -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M50,90 L150,90"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1" />
 </vector>
